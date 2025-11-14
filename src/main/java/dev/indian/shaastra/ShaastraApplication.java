@@ -1,4 +1,4 @@
-package dev.indian.Shaastra;
+package dev.indian.shaastra;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
